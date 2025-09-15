@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Flutter version - 3.32.8
+
+State Management - Provider
+
+Local Storage - Shared Preferences
+
+ScreenShots:
+![Screenshot_20250915_101109.png](Screenshot_20250915_101109.png)
+![Screenshot_20250915_101237.png](Screenshot_20250915_101237.png)
+![Screenshot_20250915_101256.png](Screenshot_20250915_101256.png)

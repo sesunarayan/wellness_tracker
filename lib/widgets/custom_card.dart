@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../constants.dart';
 
 class CustomCard extends StatelessWidget {
   final String title;
@@ -23,12 +22,12 @@ class CustomCard extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(kCardRadius),
+        borderRadius: BorderRadius.circular(16.0),
       ),
       elevation: 3,
       margin: const EdgeInsets.all(8),
       child: Padding(
-        padding: const EdgeInsets.all(kPadding),
+        padding: const EdgeInsets.all(12.0),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
